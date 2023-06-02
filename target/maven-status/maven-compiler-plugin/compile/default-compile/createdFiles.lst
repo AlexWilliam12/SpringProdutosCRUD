@@ -1,0 +1,6 @@
+com\projetoSMD\produtosCRUD\entity\Produto.class
+com\projetoSMD\produtosCRUD\repositories\ProdutoRepository.class
+com\projetoSMD\produtosCRUD\controllers\ProdutoController.class
+com\projetoSMD\produtosCRUD\controllers\TemplateController.class
+com\projetoSMD\produtosCRUD\controllers\GlobalExceptionHandler.class
+com\projetoSMD\produtosCRUD\ProdutosCrudApplication.class
